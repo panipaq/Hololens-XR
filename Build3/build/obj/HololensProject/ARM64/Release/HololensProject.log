@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+     Bibliothek "C:\Users\isi\Documents\XR\MixedRealityToolkit-Unity-main\UnityProjects\MRTKDevTemplate\Build3\build\bin\ARM64\Release\HololensProject.lib" und Objekt "C:\Users\isi\Documents\XR\MixedRealityToolkit-Unity-main\UnityProjects\MRTKDevTemplate\Build3\build\bin\ARM64\Release\HololensProject.exp" werden erstellt.
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+  HololensProject.vcxproj -> C:\Users\isi\Documents\XR\MixedRealityToolkit-Unity-main\UnityProjects\MRTKDevTemplate\Build3\build\bin\ARM64\Release\HololensProject.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\AppxPackage\Microsoft.AppXPackage.Targets(2771,5): warning : Der Herausgebername (CN=Microsoft) stimmt nicht mit dem Signaturzertifikataussteller überein: CN=HAW-XR. Der Herausgebername wird aktualisiert.
