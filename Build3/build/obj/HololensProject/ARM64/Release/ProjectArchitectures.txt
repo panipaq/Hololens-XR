@@ -1,1 +1,0 @@
-C:\Users\isi\Documents\XR\MixedRealityToolkit-Unity-main\UnityProjects\MRTKDevTemplate\Build3\HololensProject\HololensProject.vcxproj;arm64
